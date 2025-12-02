@@ -2,23 +2,20 @@
 
 A simple, clean, and modern web application that predicts the Fire Weather Index (FWI) using a trained Machine Learning model (Ridge Regression) integrated with a Flask backend.
 
----
 
-## 🔍 Overview
+## Overview
 
 This project takes several environmental inputs such as temperature, humidity, wind speed, etc., and predicts the Fire Weather Index, indicating the likelihood of forest fire risk.
 
----
 
-## 🧠 Machine Learning Model
+
+## Machine Learning Model
 
 - Model: Ridge Regression
 - Dataset: Algerian Forest Fires Dataset (cleaned)
-- Features used:
+  
 
----
-
-## 🚀 Steps to Run the Project
+## Steps to Run the Project
 
 ```bash
 # Navigate to project directory
